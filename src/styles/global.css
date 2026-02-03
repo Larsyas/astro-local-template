@@ -185,9 +185,5 @@
     transform: scale(1.1);
     box-shadow: 0 8px 30px -4px rgba(37, 211, 102, 0.6);
   }
-  .whatsapp-button {
-    color: red;
-    background-color: red;
-  }
 }
 
